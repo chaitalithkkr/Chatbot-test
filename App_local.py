@@ -1,3 +1,5 @@
+!pip install transformers
+
 from transformers import (
     AutoTokenizer, 
     AutoModelForSequenceClassification, 
